@@ -3,3 +3,7 @@ fortan
 sql
 c
 html
+
+c++
+javascript
+php
