@@ -1,9 +1,5 @@
 java 
-fortan 
-sql
 c
-html
-
 c++
-javascript
+python
 php
